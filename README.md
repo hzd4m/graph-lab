@@ -4,7 +4,7 @@ Laboratório didático de algoritmos em grafos em Python, com documentação em 
 
 ## Objetivo
 
-O **graph-lab** foi criado para apoiar estudos e aulas práticas sobre algoritmos em grafos. A proposta é evoluir o repositório de forma incremental, com foco em clareza pedagógica, organização e documentação em pt-BR.
+O **graph-lab** foi criado para apoiar estudos e aulas práticas sobre algoritmos em grafos.
 
 ## Estrutura do projeto
 
@@ -24,8 +24,6 @@ graph-lab/
 ```
 
 ## Evolução progressiva
-
-Neste estágio inicial, o repositório contém apenas a estrutura base, documentação e placeholders. O código será preenchido progressivamente durante as próximas etapas do projeto.
 
 Os primeiros módulos planejados são:
 
