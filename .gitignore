@@ -1,22 +1,7 @@
-# Python
 __pycache__/
 *.py[cod]
-*.pyo
-*.pyd
-
-# Virtual environment
+*.egg-info/
+.pytest_cache/
 .venv/
 venv/
-env/
-
-# Tests
-.pytest_cache/
-.coverage
-htmlcov/
-
-# IDE/editor
-.vscode/
-.idea/
-
-# macOS
-.DS_Store
+.env
