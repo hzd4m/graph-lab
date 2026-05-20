@@ -1,7 +1,7 @@
 # Glossário de grafos
 
 ## grafo
-Estrutura composta por vértices e arestas para representar relações.
+Estrutura composta por um par de conjuntos vértices e arestas para representar relações.
 
 ## vértice
 Elemento que representa um ponto, nó ou entidade no grafo.
