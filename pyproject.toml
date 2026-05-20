@@ -1,0 +1,16 @@
+[project]
+name = "graph-lab"
+version = "0.1.0"
+description = "Laboratório didático de algoritmos em grafos com Python."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pytest",
+    "networkx",
+    "matplotlib",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["algorithms"]
+python_files = ["test_*.py"]
+python_functions = ["test_*"]
