@@ -1,0 +1,5 @@
+{
+  "descricao": "Grafo pedagógico com ciclo simples",
+  "topicos": ["T1", "T2"],
+  "dependencias": [["T1", "T2"], ["T2", "T1"]]
+}

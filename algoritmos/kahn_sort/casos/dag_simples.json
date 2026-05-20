@@ -1,0 +1,5 @@
+{
+  "descricao": "DAG simples para estudo futuro do Kahn Sort",
+  "vertices": ["A", "B", "C"],
+  "arestas": [["A", "B"], ["A", "C"]]
+}

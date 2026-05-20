@@ -1,0 +1,5 @@
+{
+  "descricao": "Modelo inicial para regressão de prioridade pedagógica",
+  "niveis": ["Lembrar", "Compreender", "Aplicar"],
+  "regras": []
+}

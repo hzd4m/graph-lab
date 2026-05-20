@@ -1,0 +1,5 @@
+{
+  "descricao": "Grafo com ciclo simples para análise futura",
+  "vertices": ["A", "B"],
+  "arestas": [["A", "B"], ["B", "A"]]
+}

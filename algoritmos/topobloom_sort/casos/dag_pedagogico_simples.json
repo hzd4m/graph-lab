@@ -1,0 +1,5 @@
+{
+  "descricao": "DAG pedagógico simples para TopoBloom Sort",
+  "topicos": ["Fundamentos", "Aplicação", "Síntese"],
+  "dependencias": [["Fundamentos", "Aplicação"], ["Aplicação", "Síntese"]]
+}
